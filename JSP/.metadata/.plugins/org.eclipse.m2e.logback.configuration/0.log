@@ -1,0 +1,9 @@
+2017-10-16 22:26:52,838 [Worker-1] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\Users\1\Google Drive\KNOU\KNOU\JSP\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2017-10-16 22:26:52,917 [Worker-1] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\Users\1\Google Drive\KNOU\KNOU\JSP\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2017-10-16 22:30:23,111 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @765834ms
+2017-10-16 22:30:23,226 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.3.9.v20160517
+2017-10-16 22:30:23,265 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@2d1f56e3{/wse,null,AVAILABLE}
+2017-10-16 22:30:23,270 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@454ef1a{HTTP/1.1,[http/1.1]}{0.0.0.0:52933}
+2017-10-16 22:30:23,273 [main] INFO  org.eclipse.jetty.server.Server - Started @765998ms
+2017-10-16 23:12:56,638 [Framework stop] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@454ef1a{HTTP/1.1,[http/1.1]}{0.0.0.0:0}
+2017-10-16 23:12:56,763 [Framework stop] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@2d1f56e3{/wse,null,UNAVAILABLE}

@@ -1,0 +1,8 @@
+package board;
+
+public class BoardData {
+	private String title;
+	private String writer;
+	private String test;
+	private String pass;
+}
